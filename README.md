@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Prabhu Kumar Yadav 👋
 
-<!--
-**Prabhu9114/Prabhu9114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Systems Builder & Automation Developer**  
+> Architecting edge-native Telegram platforms, serverless Cloudflare Workers, and MTProto automated pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Stack & Technologies
+* **Edge & Cloud:** Cloudflare Workers, Cloudflare Pages, Cloudflare D1 (SQL), Workers KV
+* **Languages & Scripting:** Python 3 (Telethon, Asyncio), JavaScript (Edge V8)
+* **Mobile Terminal:** Termux (Linux CLI)
+* **APIs & Protocols:** Telegram Bot API, MTProto API, Webhooks
+
+---
+
+### 🚀 Featured Deployments
+
+| Project | Focus | Architecture / Stack |
+| :--- | :--- | :--- |
+| **[OmniPost Cloud](https://prabhu-labs.pages.dev)** | Broadcast Fanout | Cloudflare Workers • KV • Auto-Detection |
+| **[TeleGrowth Engine](https://prabhu-labs.pages.dev)** | Audience Database | Cloudflare D1 (SQL) • Fast Webhooks • DM Loops |
+| **[Command Center v5.0](https://prabhu-labs.pages.dev)** | Terminal Operations | Python 3 • Telethon MTProto • Termux Mobile |
+
+---
+
+### 🌐 Direct Links
+* **Showcase Portfolio:** [prabhu-labs.pages.dev](https://prabhu-labs.pages.dev)
+* **Concierge Desk:** [@JoinLinks_hub_bot](https://t.me/JoinLinks_hub_bot)
