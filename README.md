@@ -17,12 +17,12 @@
 
 | Project | Focus | Architecture / Stack |
 | :--- | :--- | :--- |
-| **[OmniPost Cloud](https://prabhu-labs.pages.dev)** | Broadcast Fanout | Cloudflare Workers • KV • Auto-Detection |
-| **[TeleGrowth Engine](https://prabhu-labs.pages.dev)** | Audience Database | Cloudflare D1 (SQL) • Fast Webhooks • DM Loops |
-| **[Command Center v5.0](https://prabhu-labs.pages.dev)** | Terminal Operations | Python 3 • Telethon MTProto • Termux Mobile |
+| **[OmniPost Cloud](https://prabhu-labs.in)** | Broadcast Fanout | Cloudflare Workers • KV • Auto-Detection |
+| **[TeleGrowth Engine](https://prabhu-labs.in)** | Audience Database | Cloudflare D1 (SQL) • Fast Webhooks • DM Loops |
+| **[Command Center v5.0](https://prabhu-labs.in)** | Terminal Operations | Python 3 • Telethon MTProto • Termux Mobile |
 
 ---
 
 ### 🌐 Direct Links
-* **Showcase Portfolio:** [prabhu-labs.pages.dev](https://prabhu-labs.pages.dev)
+* **Showcase Portfolio:** [prabhu-labs.in](https://prabhu-labs.in)
 * **Concierge Desk:** [@JoinLinks_hub_bot](https://t.me/JoinLinks_hub_bot)
